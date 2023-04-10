@@ -1,3 +1,3 @@
 [submodule "logger"]
 	path = logger
-	url = ./logger
+	url = https://github.com/bhaireshm/logger
