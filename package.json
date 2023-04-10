@@ -1,0 +1,17 @@
+{
+  "name": "bhai",
+  "version": "0.0.001",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "prepublishOnly": "echo 'compile all folders and publish each one separately'"
+  },
+  "keywords": [
+    "bhairesh",
+    "logger"
+  ],
+  "author": "bhairesh97@gmail.com",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
